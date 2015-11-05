@@ -1,0 +1,58 @@
+body {
+  font-family: Arial;
+  color: #848484;
+}
+
+.header {
+	color: #848484;
+	text-align: left;
+	padding-top: 50px;
+}
+
+h3 {
+	font-size:22px;
+}
+
+.intro {
+text-align: left;
+color: #848484;
+}
+
+.grid {
+text-align: left;
+color: #848484;
+}
+
+.specialization {
+text-align: left;
+color:;
+}
+
+.howwork {
+text-align: left;
+color:;
+}
+
+.why {
+text-align: left;
+color:;
+}
+
+.contact {
+text-align: left;
+padding-bottom: 30px;
+}
+
+
+hr {
+  width: 200px;
+}
+
+
+p {
+  font-size:22px;
+}
+
+ul {
+  font-size:22px;
+}
