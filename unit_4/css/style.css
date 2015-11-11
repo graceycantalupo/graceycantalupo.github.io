@@ -1,0 +1,74 @@
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+
+body {
+  color: #231f20;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+	color: #231f20;
+	text-align: left;
+	padding-top: 15px;
+	padding-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+	font-size:22px;
+	padding-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+text-align: left;
+color: #231f20;
+padding-left: 10px;
+}
+
+.grid {
+text-align: left;
+padding-left: 10px;
+color: #231f20;
+font-family: 'Montserrat', sans-serif;
+}
+
+.specialization {
+text-align: left;
+
+color:;
+}
+
+.howwork {
+text-align: left;
+color:;
+}
+
+.why {
+text-align: left;
+color:;
+}
+
+.contact {
+text-align: left;
+padding-bottom: 30px;
+}
+
+
+hr {
+  width: 200px;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 10px;
+}
+
+
+p {
+  font-size:22px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+  font-size:22px;
+  font-family: 'Montserrat', sans-serif;
+}
