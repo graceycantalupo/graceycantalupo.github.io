@@ -1,0 +1,106 @@
+
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+body {
+  	color: #231f20;
+  	font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+header {
+	color: #231f20;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h3 {
+	font-size:22px;
+	padding-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+	text-align: left;
+	color: #231f20;
+	padding-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.grid {
+	text-align: left;
+	padding-left: 10px;
+	color: #231f20;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.specialization {
+	text-align: left;
+	color:;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.howwork {
+	text-align: left;
+	color:;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.why {
+	text-align: left;
+	color:;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.contact {
+	text-align: left;
+	padding-bottom: 30px;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+hr {
+  width: 200px;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 10px;
+}
+
+
+p {
+  font-size:22px;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 10px;
+}
+
+ul {
+  font-size:22px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+ 	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
