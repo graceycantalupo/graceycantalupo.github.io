@@ -1,0 +1,143 @@
+
+
+
+@font-face {
+    font-family: 'ASans';
+    src: url('../fonts/ASansreg.ttf');
+}
+
+@font-face {
+    font-family: 'ASans_Black';
+    src: url('../fonts/ASansblack.ttf');
+}
+
+@font-face {
+    font-family: 'ASansBOLD';
+    src: url('../fonts/ASansBOLD.ttf');
+}
+
+body {
+  	color: #231f20;
+  	font-family: 'ASans_Black';
+  	letter-spacing: 1.5px;
+}
+
+nav {
+    padding: 5px;
+    font-family: 'ASansBOLD';
+    letter-spacing: 1.5px;
+}
+
+header {
+	color: #231f20;
+	text-align: left;
+	font-family: 'ASans_Black';
+    padding: 10px;
+    letter-spacing: 1.5px;
+}
+
+h1 {
+	font-size: 35px;
+	padding-left: 10px;
+	font-family: 'ASansBOLD';
+	font-weight: 950;
+	letter-spacing: 1.5px;
+}
+
+h2 {
+	font-size: 28px;
+	padding-left: 10px;
+	font-family: 'ASansBOLD';
+	font-weight: 950;
+	letter-spacing: 1.5px;
+}
+
+h3 {
+	font-size: 26px;
+	padding-left: 10px;
+	font-family: 'ASansBOLD';
+	font-weight: 950;
+	letter-spacing: 1.5px;
+}
+
+hr {
+  width: 200px;
+  font-family: 'ASans_Black';
+  padding-left: 10px;
+}
+
+
+p {
+  font-size:22px;
+  font-family: 'ASans_Black';
+  padding-left: 10px;
+  letter-spacing: 1.5px;
+}
+
+ul {
+  font-size:22px;
+  font-family: 'ASans_Black';
+  letter-spacing: 1.5px;
+}
+
+.intro {
+	text-align: left;
+	color: #231f20;
+	padding-left: 10px;
+    padding: 20px;
+    letter-spacing: 1.5px;
+}
+
+.grid {
+	text-align: left;
+	padding-left: 10px;
+	color: #231f20;
+	font-family: 'ASans_Black';
+    padding: 20px;
+    letter-spacing: 1.5px;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+	letter-spacing: 1.5px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: pink;
+	boder: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.contact {
+	text-align: left;
+	padding-bottom: 30px;
+    padding: 20px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-family: 'ASans_Black';
+    letter-spacing: 1.5px;
+}
