@@ -36,13 +36,18 @@ header {
     letter-spacing: 1.5px;
 }
 
+p {
+	font-size: 18px;
+	padding-left: 10px;
+	font-family: 'ASans_Black';
+	letter-spacing: 1.5px;
+
 h1 {
 	font-size: 35px;
 	padding-left: 10px;
 	font-family: 'ASansBOLD';
 	font-weight: 950;
 	letter-spacing: 1.5px;
-}
 
 h2 {
 	font-size: 28px;
@@ -102,6 +107,7 @@ ul {
 	border: 1px black solid;
 	padding: 20px;
 	letter-spacing: 1.5px;
+	font-family: 'ASans_Black';
 }
 
 #left {
@@ -114,7 +120,7 @@ ul {
 
 #right {
 	background-color: pink;
-	boder: 1px black solid;
+	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 62%;
