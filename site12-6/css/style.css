@@ -151,7 +151,7 @@ footer{
 
 
 #two_column{
-	font-family: 'ASans_Black';
+	/*font-family: 'ASans_Black';*/
 	padding: 20px;
 	letter-spacing: 1.5px;
 	background: white;
@@ -161,14 +161,14 @@ footer{
 }
 
 #left{
-	font-family: 'ASans_Black';
+	/*font-family: 'ASans_Black';*/
 	padding: 20px;
 	float: left;
 	width: 35%;
 }
 
 #right{
-	font-family: 'ASans_Black';
+	/*font-family: 'ASans_Black';*/
 	padding: 20px;
 	float: right;
 	width: 55%;
