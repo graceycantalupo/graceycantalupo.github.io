@@ -88,6 +88,7 @@ ul{
 footer{
     padding: 20px;
     text-align: center;
+    font-family: 'ASans_Black';
 }
 
 .clearfix:after{
@@ -100,6 +101,7 @@ footer{
 }
 
 .contact{
+	font-family: 'ASans_Black';
 	text-align: center;
 	padding-bottom: 30px;
     padding: 20px;
@@ -151,7 +153,7 @@ footer{
 
 
 #two_column{
-	/*font-family: 'ASans_Black';*/
+	font-family: 'ASans_Black';
 	padding: 20px;
 	letter-spacing: 1.5px;
 	background: white;
@@ -161,14 +163,12 @@ footer{
 }
 
 #left{
-	/*font-family: 'ASans_Black';*/
 	padding: 20px;
 	float: left;
 	width: 35%;
 }
 
 #right{
-	/*font-family: 'ASans_Black';*/
 	padding: 20px;
 	float: right;
 	width: 55%;
