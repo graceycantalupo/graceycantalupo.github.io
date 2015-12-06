@@ -136,8 +136,13 @@ footer{
 .imageblock img{
 	width:100%;
 	border: 3px solid #231f20;
+	cursor: pointer; cursor: hand;
 }
 
+.imageblock:hover {
+	opacity: 0.3; 
+	filter: alpha(opacity=30);
+}
 
 /*#imageblock{
 	width: 100%;
@@ -152,7 +157,8 @@ footer{
 	border-bottom: 5px solid #231f20;
 	border-top: 5px solid #231f20;
 	margin-top: 15px;
-	margin-bottom: 5px;
+	margin-bottom: 20px;
+	/*position: fixed;*/
 }
 
 
@@ -183,12 +189,11 @@ footer{
 }
 
 #bottom{
-	background-color: #be1e2e;
+	background-color: #444b4f;
 	vertical-align: bottom;
 	height: 200px;
 	width: 100%;
-	border-top: 5px solid #231f20;
-	border-bottom: 5px solid #231f20;
 	margin-top: 15px;	
+	border-radius: 20px;
 }
 
