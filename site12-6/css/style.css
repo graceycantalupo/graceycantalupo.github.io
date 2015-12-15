@@ -9,7 +9,7 @@
 }
 
 @font-face{
-    font-family: 'ASans_Black';
+    font-family: 'ASansBlack';
     src: url('../fonts/ASansBlack.ttf');
 }
 
@@ -20,13 +20,13 @@
 
 body{
   	color: #231f20;
-  	font-family: 'ASans_Black';
+  	font-family: 'ASansBlack';
   	letter-spacing: 1.5px;
   	background-color: #b1dc3d;
 }
 
 p{
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
 	font-size: 22px;
 	margin-bottom: 15px;
 	line-height: 25px;
@@ -39,7 +39,7 @@ nav{
 
 header{
 	text-align: center;
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
     letter-spacing: 1.5px;
     /*margin: 0 auto;*/
 }
@@ -56,7 +56,7 @@ h1{
 h2{
 	font-size: 28px;
 	color: #be1e2e;
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
 	font-weight: 900;
 	letter-spacing: 2px;
 	margin-bottom: 10px;
@@ -72,24 +72,22 @@ h3{
 
 hr{
 	width: 200px;
-  	font-family: 'ASans_Black';
+  	font-family: 'ASansBlack';
   	/*padding-left: 10px;*/
   	text-align: center;
 }
 
 ul{
-  	font-family: 'ASans_Black';
+  	font-family: 'ASansBlack';
   	font-size:22px;
-  	font-family: 'ASans_Black';
   	letter-spacing: 1.5px;
   	padding-left: 30px;
 }
 
 footer{
-    font-family: 'ASans_Black';
+    font-family: 'ASansBlack';
     padding: 20px;
     text-align: center;
-    font-family: 'ASans_Black';
 }
 
 .clearfix:after{
@@ -102,7 +100,7 @@ footer{
 }
 
 .contact{
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
 	text-align: center;
 	padding-bottom: 30px;
     padding: 20px;
@@ -150,7 +148,7 @@ footer{
 }
 
 #two_column{
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack'; 
 	letter-spacing: 1.5px;
 	background: white;
 	border: 3px solid #231f20;
@@ -159,21 +157,21 @@ footer{
 }
 
 #left{
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
 	padding: 20px;
 	float: left;
 	width: 35%;
 }
 
 #right{
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
 	padding: 20px;
 	float: right;
 	width: 55%;
 }
 
 #bottom{
-	font-family: 'ASans_Black';
+	font-family: 'ASansBlack';
 	background-color: #444b4f;
 	vertical-align: bottom;
 	height: 200px;
