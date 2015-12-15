@@ -71,20 +71,22 @@ h3{
 }
 
 hr{
-  width: 200px;
-  font-family: 'ASans_Black';
-  /*padding-left: 10px;*/
-  text-align: center;
+	width: 200px;
+  	font-family: 'ASans_Black';
+  	/*padding-left: 10px;*/
+  	text-align: center;
 }
 
 ul{
-  font-size:22px;
-  font-family: 'ASans_Black';
-  letter-spacing: 1.5px;
-  padding-left: 30px;
+  	font-family: 'ASans_Black';
+  	font-size:22px;
+  	font-family: 'ASans_Black';
+  	letter-spacing: 1.5px;
+  	padding-left: 30px;
 }
 
 footer{
+    font-family: 'ASans_Black';
     padding: 20px;
     text-align: center;
     font-family: 'ASans_Black';
@@ -149,7 +151,6 @@ footer{
 
 #two_column{
 	font-family: 'ASans_Black';
-	padding: 20px;
 	letter-spacing: 1.5px;
 	background: white;
 	border: 3px solid #231f20;
@@ -158,18 +159,21 @@ footer{
 }
 
 #left{
+	font-family: 'ASans_Black';
 	padding: 20px;
 	float: left;
 	width: 35%;
 }
 
 #right{
+	font-family: 'ASans_Black';
 	padding: 20px;
 	float: right;
 	width: 55%;
 }
 
 #bottom{
+	font-family: 'ASans_Black';
 	background-color: #444b4f;
 	vertical-align: bottom;
 	height: 200px;
