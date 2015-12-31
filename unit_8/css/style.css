@@ -27,7 +27,7 @@ body{
 
 p{
 	font-family: 'ASansBlack';
-	font-size: 22px;
+	font-size: 1.3em;
 	margin-bottom: 15px;
 	line-height: 25px;
 }
@@ -45,7 +45,7 @@ header{
 }
 
 h1{
-	font-size: 35px;
+	font-size: 2em;
 	padding-top: 90px;
 	font-family: 'ASansBOLD';
 	font-weight: 950;
@@ -54,7 +54,7 @@ h1{
 }
 
 h2{
-	font-size: 28px;
+	font-size: 1.5em;
 	color: #be1e2e;
 	font-family: 'ASansBlack';
 	font-weight: 900;
@@ -64,7 +64,7 @@ h2{
 }
 
 h3{
-	font-size: 26px;
+	font-size: 1.5em;
 	font-family: 'ASansBOLD';
 	font-weight: 950;
 	letter-spacing: 1.5px;
@@ -79,7 +79,7 @@ hr{
 
 ul{
   	font-family: 'ASansBlack';
-  	font-size:22px;
+  	font-size: 1.3em;
   	letter-spacing: 1.5px;
   	padding-left: 30px;
 }
@@ -126,7 +126,7 @@ footer{
 }
 
 .imageblock img{
-	width:100%;
+	width: 100%;
 	border: 3px solid #231f20;
 	cursor: pointer; cursor: hand;
 }
@@ -174,9 +174,56 @@ footer{
 
 #bottom{
 	font-family: 'ASansBlack';
-	background-color: #444b4f;
-	vertical-align: bottom;
-	height: 200px;
+	vertical-align: center;
 	width: 100%;
-	margin-top: 15px;	
+	height: 9%;
+	background-color: #be1e2e;
+	border-bottom: 5px solid #231f20;
+	border-top: 5px solid #231f20;
+	margin-top: 33px;
+	margin-bottom: 5px;
+	color: #fff; 
 }
+
+@media screen and (max-width: 1199px){
+	.imageblock{
+		width: 40%;
+		float: center;	
+		margin-left: 3%;
+		margin-right: 3%;
+		vertical-align: center;
+	}
+}
+
+@media screen and (max-width: 999px){
+	.imageblock{
+		width: 38%;
+		float: center;	
+		vertical-align: center;
+	}
+}
+
+@media screen and (max-width: 665px){
+	.imageblock{
+		width: 70%;
+		float: center;	
+		margin-left: 10%;
+		margin-right: 3%;
+		vertical-align: center;
+	}
+}
+@media screen and (max-width: 815px){
+	#left{
+		width: 90%;
+		padding: 2%;
+		float: left;
+	}
+	#right{
+		width: 90%;
+		padding: 2%;
+		margin-top: -3%;
+		float: left;
+	}
+}
+
+    
